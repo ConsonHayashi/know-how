@@ -6,6 +6,9 @@
 
 ## http
 
+## soap
+
 ## rpc
 
 ## graphql
+
