@@ -1,4 +1,4 @@
-# knowhow
+# know-how
 
 ## open-api
 
